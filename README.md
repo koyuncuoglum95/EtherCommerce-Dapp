@@ -1,4 +1,3 @@
-# EtherCommerce-Dapp
 
 # EtherCommerce-Dapp
 
