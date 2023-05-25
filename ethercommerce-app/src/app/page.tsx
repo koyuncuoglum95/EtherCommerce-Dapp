@@ -23,7 +23,7 @@ export default function Home() {
       <div className="w-3/4 p-6">
         <h1 className="text-3xl mb-4">Our Products</h1>
         <div className="grid grid-cols-3 gap-4">
-          {products.map((product: ProductProps) => (
+          {products.map((product: any) => (
             <Product key={product.id} {...product} />
           ))}
         </div>
