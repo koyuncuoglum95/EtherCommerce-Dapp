@@ -1,3 +1,4 @@
+
 # EtherCommerce-Dapp
 
 This is an e-commerce web application built with Next.js and Solidity. The application allows users to browse products and make a purchase.
