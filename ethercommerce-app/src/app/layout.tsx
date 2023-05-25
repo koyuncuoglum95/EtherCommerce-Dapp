@@ -44,7 +44,7 @@ const wagmiConfig = createConfig({
 })
 
 
-export const metadata = {
+const metadata = {
   title: 'EtherCommerce',
   description: 'Dapp E-Commerce',
 }
